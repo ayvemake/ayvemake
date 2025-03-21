@@ -12,9 +12,9 @@ Currently, I am developing applications with Ruby on Rails and Tailwind CSS whil
 **DevOps:** Docker, VPS deployment, CI/CD, GitHub Actions  
 
 ## Current Projects  
-- Ruby on Rails 7 and 8, building fully automated process flows for startup grade needs
-- Currently building an event and location recommendation system using BART MNLI for emotion and feedback found in Google feedbacks  
-- Applying computer vision techniques (YOLOv8) for microfabrication analysis in the medtech industry, automation
+- Ruby on Rails 7 and 8, bringing fully automated process flows for startup grade needs
+- Currently building an event and location recommendation system using BART MNLI for emotion analysis found in Google Places 
+- Applying computer vision techniques (YOLOv8) for microfabrication analysis in the medtech industry, automation processes
 
 ## Contact  
 Building portfolio | [Email](mailto:anilcan.kahraman@gmail.com)  
