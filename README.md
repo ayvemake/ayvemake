@@ -17,4 +17,4 @@ Currently, I am developing applications with Ruby on Rails and Tailwind CSS whil
 - Applying computer vision techniques (YOLOv8) for microfabrication analysis in the medtech industry, automation
 
 ## Contact  
-[LinkedIn]([https://www.linkedin.com/in/anil-kahraman-6a0875320/]) | Building portfolio | [Email](mailto:anilcan.kahraman@gmail.com)  
+Building portfolio | [Email](mailto:anilcan.kahraman@gmail.com)  
