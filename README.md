@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ayvemake  
 
-<!--
-**ayvemake/ayvemake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+I am an mechanical engineer and full-stack developer with a strong focus on medtech, AI, and web development.  
+Convinced about building fast, multidisciplinary solutions, from prototyping to production.  
+Currently, I am developing applications with Ruby on Rails and Tailwind CSS while exploring AI-driven automation for frontend and backend development.  
 
-Here are some ideas to get you started:
+## Tech Stack  
+**Backend:** Ruby on Rails, PostgreSQL, Sidekiq, Redis
+**Frontend:** Tailwind CSS, Bulma, Stimulus.js  
+**AI / Data Science:** PyTorch, Computer Vision, NLP  
+**DevOps:** Docker, VPS deployment, CI/CD, GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects  
+- Ruby on Rails 7 and 8, building fully automated process flows for startup grade needs
+- Currently building an event and location recommendation system using BART MNLI for emotion and feedback found in Google feedbacks  
+- Applying computer vision techniques (YOLOv8) for microfabrication analysis in the medtech industry, automation
+
+## Contact  
+[LinkedIn]([https://www.linkedin.com/in/anil-kahraman-6a0875320/]) | Building portfolio | [Email](mailto:anilcan.kahraman@gmail.com)  
