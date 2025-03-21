@@ -7,7 +7,7 @@ Currently, I am developing applications with Ruby on Rails and Tailwind CSS whil
 
 ## Tech Stack  
 **Backend:** Ruby on Rails, PostgreSQL, Sidekiq, Redis
-**Frontend:** Tailwind CSS, Bulma, Stimulus.js  
+**Frontend:** Tailwind CSS, daisyUI, Stimulus.js  
 **AI / Data Science:** PyTorch, Computer Vision, NLP  
 **DevOps:** Docker, VPS deployment, CI/CD, GitHub Actions  
 
