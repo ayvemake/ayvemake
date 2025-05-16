@@ -1,5 +1,3 @@
-# Hi, I'm Ayvemake 
-
 ## Current Projects  
 - Ruby on Rails, bringing fully automated process flows for startup grade needs
 - Deep diving into Elixir
